@@ -1,8 +1,75 @@
-﻿핸드폰
-페이스북 사용하시죠?
-내 핸드폰에서 다른 사람의 근황을 보고 싶을 때
-다른 사람의 근황은 내 핸드폰에 있는 것이 아닙니다.
-어떤 정보를 다른 어딘가에서 가져와야 하죠
-그게 페이스북 회사의 information storage가 될 수도 있습니다.
-그 가져오는 것을 서버라고 하고,
-data를 받는 우리쪽을 client라고 합니다.
+﻿Developing ChatBot
+1-1 Introduction to Web App
+What is happening on the Internet?
+Internet & Web
+Web browser(Client) & Server
+What is Web App?
+Program running on the Web
+What is ChatBot?
+A computer program
+Often integrated into the dialog systems
+Some of them process natural language
+Behave as a conversational partner
+ChatBot – Pabby Demonstration
+m.me/pbsanjose
+
+Developing ChatBot
+1-2 Setting Environment
+ChatBot Communication Flow
+Install Node.js & Heroku
+nodejs.org/es/download/
+Sign up Heroku
+Install Heroku Command Line Interface
+Git Setting(1/2)
+Git Setting(2/2)
+
+Developing ChatBot
+1-3 Make Echo Bot
+User is ready
+Create Facebook Page/App
+Go to Facebook for developers
+Create app
+Facebook is ready
+Edit app.js File
+Make program run, just copy and paste
+edit Pacjage.json
+Code finished
+Push Code to Server
+Server is Ready
+Link Facebook and Server
+Go to messenger set up
+Copy ‘Page Access Token’ to anywhere not open
+(key to the page what you just made)
+Go to Heroku app dashboard
+App setting
+Copy app domain
+(It may be https://app-name.herokuapp.com/)
+Webhook Setting
+Click setup webhooks
+Set callback URL as ‘Domain’ /webhook
+Set VERIFY_TOKEN
+Check all
+Select page and subscribe
+Everything is ready
+Push Code to Server Finally
+Run Echo Bot
+
+
+is an information space where documents and other web resources are identified by Uniform Resource Locators (URLs), interlinked by hypertext links, and can be accessed via the Internet.
+
+
+Import modules
+Create app object
+Body-parser is to use json format
+Visit home page send ‘Hello world’
+When webhook occurs, check verify token
+Display through which port server is listening
+
+Make program run, just copy and paste
+
+구상
+기획
+디자인
+개발
+테스트
+
