@@ -1,0 +1,34 @@
+﻿<strong>PPT files</strong> <span style="color: #33cccc;"><a href="https://github.com/YehoonLee3/ChatBotCourse" target="_blank" rel="noopener">https://github.com/YehoonLee3/ChatBotCourse</a></span>
+
+<span style="color: #0000ff;"><strong>1-1</strong></span>
+<strong>ChatBot - Pabby</strong> <span style="color: #33cccc;"><a href="https://m.me/pbsanjose" target="_blank" rel="noopener">m.me/pbsanjose</a></span>
+
+<span style="color: #0000ff;"><strong>1-3
+<span style="color: #000000;">Fill Group info into this excel sheet.</span>
+</strong></span><strong>Goolge Sheet </strong><span style="color: #33cccc;"><a href="https://docs.google.com/spreadsheets/d/155KW8vTg2n6Kac-w5Advvtd342G6QIwZydpe2VGkrXU/edit?usp=sharing">https://docs.google.com/spreadsheets/d/155KW8vTg2n6Kac-w5Advvtd342G6QIwZydpe2VGkrXU/edit?usp=sharing</a></span><span style="color: #0000ff;"><strong>
+</strong></span>
+
+<span style="color: #0000ff;"><strong>2-1</strong></span>
+<strong>Node.js download</strong><span style="color: #33cccc;"> <a href="http://nodejs.org/es/download">nodejs.org/en/download/</a></span> (for x64)
+<span style="color: #33cccc;"><a href="http://nodejs.org/dist/latest-v0.10.x/node-v0.10.48-x86.msi">http://nodejs.org/dist/latest-v0.10.x/node-v0.10.48-x86.msi</a></span> (for x86 WinXP)
+<strong>Sign up Heroku</strong> <span style="color: #33cccc;"><a href="https://signup.heroku.com/" target="_blank" rel="noopener">https://signup.heroku.com/</a></span>
+<strong>Install Heroku Command Line Interface</strong>
+<span style="color: #33cccc;"><a href="https://devcenter.heroku.com/articles/getting-started-with-nodejs#set-up" target="_blank" rel="noopener">https://devcenter.heroku.com/articles/getting-started-with-nodejs#set-up</a></span>
+<strong>How to generate a new SSH key?</strong>
+<span style="color: #33cccc;"><a href="https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/" target="_blank" rel="noopener">https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/</a></span>
+
+<span style="color: #0000ff;"><strong>2-2</strong></span>
+<strong>Create Facebook page</strong> <span style="color: #33cccc;"><a href="https://www.facebook.com/pages/create/" target="_blank" rel="noopener">https://www.facebook.com/pages/create/</a></span><a href="https://www.facebook.com/pages/create/">
+</a><strong>Go to Facebook for developers</strong> <span style="color: #33cccc;"><a href="https://developers.facebook.com/" target="_blank" rel="noopener">https://developers.facebook.com/</a></span>
+<strong>Heroku personal apps</strong> <span style="color: #33cccc;"><a href="https://dashboard.heroku.com/apps" target="_blank" rel="noopener">https://dashboard.heroku.com/apps</a></span>
+<strong>App.js code</strong> <span style="color: #33cccc;"><a href="https://github.com/YehoonLee3/ChatBotCourse/blob/master/src/app.js" target="_blank" rel="noopener">app.js</a></span>
+
+<strong><span style="color: #0000ff;">3-1</span>
+Api-ai Github resources </strong><a href="https://github.com/api-ai/api-ai-facebook"><span style="color: #33cccc;">https://github.com/api-ai/api-ai-facebook</span></a>
+
+<strong><span style="color: #0000ff;">3-3
+<span style="color: #000000;">Postgres: Heroku database </span></span></strong><span style="color: #33cccc;"><a href="https://devcenter.heroku.com/categories/heroku-postgres" target="_blank" rel="noopener">https://devcenter.heroku.com/categories/heroku-postgres</a></span><strong><span style="color: #0000ff;"><span style="color: #000000;">
+Twilio: Programmable SMS sending </span></span></strong><span style="color: #33cccc;"><a href="https://www.twilio.com/docs" target="_blank" rel="noopener">https://www.twilio.com/docs</a></span><strong><span style="color: #0000ff;"><span style="color: #000000;">
+SendGrid: Free sending email by programming. </span></span></strong><span style="color: #33cccc;"><a href="https://sendgrid.com/" target="_blank" rel="noopener">https://sendgrid.com/</a></span><strong><span style="color: #0000ff;"><span style="color: #000000;">
+PayPal </span></span></strong><span style="color: #33cccc;"><a href="https://developer.paypal.com/docs/api/" target="_blank" rel="noopener">https://developer.paypal.com/docs/api/</a></span><strong><span style="color: #0000ff;">
+</span></strong>
